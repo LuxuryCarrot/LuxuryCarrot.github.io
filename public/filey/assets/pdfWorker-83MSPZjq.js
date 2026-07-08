@@ -1,0 +1,1 @@
+import{_ as e}from"./index-B_VNuORi.js";const t="/filey/assets/pdf.worker.min-rsCePomN.mjs";let o=!1;async function s(){const r=await e(()=>import("./pdf-C-olXVQ4.js"),[]);if(!o){try{r.GlobalWorkerOptions&&(r.GlobalWorkerOptions.workerSrc=t)}catch{}o=!0}return r}export{s as loadPdfjsWithWorker};
